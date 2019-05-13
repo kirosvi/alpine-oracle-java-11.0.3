@@ -1,5 +1,5 @@
 FROM alpine:latest
-MAINTAINER kamal.maiti@accenture.com
+MAINTAINER kamal.maiti@gmail.com
 
 ENV JAVA_HOME="/usr/lib/jvm/java-11-oracle"  \
     PATH="/usr/lib/jvm/java-11-oracle/bin:$PATH"  \

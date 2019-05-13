@@ -17,7 +17,7 @@ Dockerfile  jdk-11.0.3_linux-x64_bin.tar.gz
 ```
 3. Build it now
 ```sh
-sudo docker build -t alpine-oracle-java-11.0.3 .
+sudo docker build -t  alpine_oracle-java-11.0.3 .
 ```
 ## Test
 ```sh
